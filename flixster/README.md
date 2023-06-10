@@ -50,20 +50,20 @@ Deployed Application (optional): [Flixster Deployed Site](ADD_LINK_HERE)
 
 - Did the topics discussed in your labs prepare you to complete the assignment? Be specific, which features in your weekly assignment did you feel unprepared to complete?
 
-Add your response here
+Yes git, and API examples helped me the most.
 
 - If you had more time, what would you have done differently? Would you have added additional features? Changed the way your project responded to a particular event, etc.
   
-Add your response here
+If I had more time I would've perfected my CSS styling. I would add a light and dark mode if I had more time to work on the project. 
 
 - Reflect on your project demo, what went well? Were there things that maybe didn't go as planned? Did you notice something that your peer did that you would like to try next time?
 
-Add your response here
+One thing that went well was the load more movies button. A lot of things didn't go as planned lie implimenting the API's, and implementing the search feature. Next time I want to be able to implement these features sooner. 
 
 ### Open-source libraries used
 
-- Add any links to open-source libraries used in your project.
+- https://developer.mozilla.org/en-US/docs/Web/API/Event/preventDefault
 
 ### Shout out
 
-Give a shout out to somebody from your cohort that especially helped you during your project. This can be a fellow peer, instructor, TA, mentor, etc.
+David Troy, Joy Rutledge, all the instructors
