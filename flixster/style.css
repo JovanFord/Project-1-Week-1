@@ -1,0 +1,42 @@
+html {
+    background-color: gray;
+}
+
+h1 {
+    text-align: center;
+    padding-bottom: 5%;
+}
+
+p {
+    text-align: center;
+}
+
+.movie-card{
+    width: 20%; 
+    display: inline-block;
+    margin: 0 1%
+}
+
+.movie-card img {
+    width: auto;
+    height: 500px;
+}
+
+#popup {
+    display: none;
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+#fixed-button{
+    position: fixed;
+    left: 50%;
+    transform: translateX(-50%);
+    bottom: 20px;
+}
